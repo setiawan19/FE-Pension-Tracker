@@ -97,5 +97,4 @@ All components are built with React and styled using Tailwind CSS for easy custo
 
 ## License
 
-Your Pension Fund Tracker is released under the MIT License.
-
+TailAdmin React.js Free Version is released under the MIT License.
