@@ -1,13 +1,13 @@
 # App Your Pension Fund Tracker
-# TailAdmin React - Free React Tailwind Admin Dashboard Template
 
-TailAdmin is a free and open-source admin dashboard template built on **React and Tailwind CSS**, providing developers
-with everything they need to create a comprehensive, data-driven back-end,
-dashboard, or admin panel solution for upcoming web projects.
+### Demos
 
-![Dashboard Preview](/images/logo/logo-pinter.png)
+- [Development](https://dev.yourpensiontracker.com)
+- [Production](https://dev.yourpensiontracker.com)
 
-## Overview
+## Installation
+
+### Overview
 
 TailAdmin provides essential UI components and layouts for building feature-rich, data-driven admin dashboards and
 control panels. It's built on:
@@ -15,19 +15,6 @@ control panels. It's built on:
 - React 19
 - TypeScript
 - Tailwind CSS
-
-### Demos
-
-- [Free Version](https://free-react-demo.tailadmin.com/)
-- [Pro Version](https://react-demo.tailadmin.com)
-
-### Other Versions
-
-- [HTML Version](https://github.com/TailAdmin/tailadmin-free-tailwind-dashboard-template)
-- [Next.js Version](https://github.com/TailAdmin/free-nextjs-admin-dashboard)
-- [Vue.js Version](https://github.com/TailAdmin/vue-tailwind-admin-dashboard)
-
-## Installation
 
 ### Prerequisites
 
@@ -108,63 +95,7 @@ All components are built with React and styled using Tailwind CSS for easy custo
 - Refer to the Tailwind CSS v4 [Migration Guide](https://tailwindcss.com/docs/upgrade-guide) on this release. if needed.
 - This update keeps the project up to date with the latest Tailwind improvements. 🚀
 
-### Version 2.0.0 - [February 2025]
-
-A major update with comprehensive redesign and modern React patterns implementation.
-
-#### Major Improvements
-
-- Complete UI redesign with modern React patterns
-- New features: collapsible sidebar, chat, and calendar
-- Improved performance and accessibility
-- Updated data visualization using ApexCharts
-
-#### Key Features
-
-- Redesigned dashboards (Ecommerce, Analytics, Marketing, CRM)
-- Enhanced navigation with React Router integration
-- Advanced tables with sorting and filtering
-- Calendar with drag-and-drop support
-- New UI components and improved existing ones
-
-#### Breaking Changes
-
-- Updated sidebar component API
-- Migrated charts to ApexCharts
-- Revised authentication system
-
-[Read more](https://tailadmin.com/docs/update-logs/react) on this release.
-
-### Version 1.3.7 - [June 20, 2024]
-
-#### Enhancements
-
-1. Remove Repetition of DefaultLayout in every Pages
-2. Add ClickOutside Component for reduce repeated functionality in Header Message, Notification and User Dropdowns.
-
-### Version 1.3.6 - [Jan 31, 2024]
-
-#### Enhancements
-
-1. Integrate flatpickr in [Date Picker/Form Elements]
-2. Change color after select an option [Select Element/Form Elements].
-3. Make it functional [Multiselect Dropdown/Form Elements].
-4. Make best value editable [Pricing Table One/Pricing Table].
-5. Rearrange Folder structure.
-
-### Version 1.2.0 - [Apr 28, 2023]
-
-- Add Typescript in TailAdmin React.
-
-### Version 1.0.0 - Initial Release - [Mar 13, 2023]
-
-- Initial release of TailAdmin React.
-
 ## License
 
-TailAdmin React.js Free Version is released under the MIT License.
+Your Pension Fund Tracker is released under the MIT License.
 
-## Support
-
-If you find this project helpful, please consider giving it a star on GitHub. Your support helps us continue developing
-and maintaining this template.
